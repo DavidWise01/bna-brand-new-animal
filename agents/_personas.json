@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "michiru",
+    "name": "Michiru Kagemori",
+    "epithet": "the accidental tanuki · natural",
+    "emergence": "natural",
+    "moniker": "⟦Michiru Kagemori:BNA:f68735⟧"
+  },
+  {
+    "slug": "shirou",
+    "name": "Shirou Ogami",
+    "epithet": "the brooding wolf · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Shirou Ogami:BNA:6a97ca⟧"
+  },
+  {
+    "slug": "anima-city",
+    "name": "Anima City",
+    "epithet": "refuge and cage · natural",
+    "emergence": "natural",
+    "moniker": "⟦Anima City:BNA:8ebc1d⟧"
+  },
+  {
+    "slug": "beastmen",
+    "name": "The Beastmen",
+    "epithet": "human and animal at once · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Beastmen:BNA:775991⟧"
+  },
+  {
+    "slug": "the-silver-wolf",
+    "name": "The Silver Wolf Legend",
+    "epithet": "faith and origin · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Silver Wolf Legend:BNA:629fd3⟧"
+  },
+  {
+    "slug": "nina-and-the-conspiracy",
+    "name": "The Conspiracy",
+    "epithet": "who profits from fear · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Conspiracy:BNA:b3204a⟧"
+  },
+  {
+    "slug": "the-transformation",
+    "name": "The Transformation",
+    "epithet": "the shape that shifts · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Transformation:BNA:ae016a⟧"
+  },
+  {
+    "slug": "coexistence",
+    "name": "Coexistence",
+    "epithet": "the unanswered hope · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Coexistence:BNA:3ebf46⟧"
+  }
+]

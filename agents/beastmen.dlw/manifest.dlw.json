@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Beastmen",
+  "universe": "BNA · The Beastmen (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Beastmen:BNA:775991⟧",
+  "carbon": "beastmen.carbon.tiff (TIFF)",
+  "silicon": "beastmen.silicon.png (PNG)",
+  "seal_sha256": "f9dd5c7a83fb73b832e956cdadc0e1d56a7f9d0ccdbc316bd00993f305ac37b1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Conspiracy",
+  "universe": "BNA · The Conspiracy (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Conspiracy:BNA:b3204a⟧",
+  "carbon": "nina-and-the-conspiracy.carbon.tiff (TIFF)",
+  "silicon": "nina-and-the-conspiracy.silicon.png (PNG)",
+  "seal_sha256": "3bc48ce1fbbc2df349762327b68949368498d5122b9b3228134c9cd9a11aed62",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

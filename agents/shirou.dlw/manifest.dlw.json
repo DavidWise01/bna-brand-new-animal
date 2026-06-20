@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Shirou Ogami",
+  "universe": "BNA · Shirou Ogami (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Shirou Ogami:BNA:6a97ca⟧",
+  "carbon": "shirou.carbon.tiff (TIFF)",
+  "silicon": "shirou.silicon.png (PNG)",
+  "seal_sha256": "f195cedeeb9f3a1de29988f3082b3333f54d048de6919b753969aadd837b417a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

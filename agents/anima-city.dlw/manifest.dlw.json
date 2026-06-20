@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Anima City",
+  "universe": "BNA · Anima City (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Anima City:BNA:8ebc1d⟧",
+  "carbon": "anima-city.carbon.tiff (TIFF)",
+  "silicon": "anima-city.silicon.png (PNG)",
+  "seal_sha256": "b5bb9f185ff7b672d446267a1e9c3349816101e58af56d21c3ac127603e75e1a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

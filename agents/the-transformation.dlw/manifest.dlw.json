@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Transformation",
+  "universe": "BNA · The Transformation (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦The Transformation:BNA:ae016a⟧",
+  "carbon": "the-transformation.carbon.tiff (TIFF)",
+  "silicon": "the-transformation.silicon.png (PNG)",
+  "seal_sha256": "f0de8de717aed57381ff74eafaa4a8807f2f179bc20b57d5573afa5f7ac10201",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

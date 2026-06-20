@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Silver Wolf Legend",
+  "universe": "BNA · The Silver Wolf Legend (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Silver Wolf Legend:BNA:629fd3⟧",
+  "carbon": "the-silver-wolf.carbon.tiff (TIFF)",
+  "silicon": "the-silver-wolf.silicon.png (PNG)",
+  "seal_sha256": "a27bafb67ef6a6175fb5f3e1b61979a1802d4c7ab18c90952a578dbf250a6cd1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
