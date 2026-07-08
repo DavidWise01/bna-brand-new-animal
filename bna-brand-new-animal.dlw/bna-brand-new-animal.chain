@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 809
+slug  : bna-brand-new-animal
+seal  : 20fe349022fb8554608a15194c64899cd73bfea8f0eb3152cf9d96a21a093eb6
+prev  : e3507b52f7a88798bb599421936769e43a2872b1bdd8c6a7004d52c8d91b4624
+link  : 93379b387a96472bb7029be78f3edbd04f5f2cb6ce90a26cd664f31c87e4d8ad
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
