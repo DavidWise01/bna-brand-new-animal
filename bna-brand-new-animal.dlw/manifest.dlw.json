@@ -1,21 +1,19 @@
 {
-  "badge": "DLW-ACI",
-  "name": "BNA · BRAND NEW ANIMAL",
-  "universe": "BNA · BNA · BRAND NEW ANIMAL (entertainment · anime-world)",
-  "emergence": "",
-  "moniker": "⟦BNA · BRAND NEW ANIMAL:BNA:22f92f⟧",
-  "carbon": "bna-brand-new-animal.carbon.tiff (TIFF)",
-  "silicon": "bna-brand-new-animal.silicon.png (PNG)",
-  "seal_sha256": "20fe349022fb8554608a15194c64899cd73bfea8f0eb3152cf9d96a21a093eb6",
-  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "badge": "DLW-BNA_BRAND_NEW_ANIMAL",
+  "name": "BNA · BRAND NEW ANIMAL · BNA",
+  "universe": "ENTERTAINMENT",
+  "moniker": "⟦BNA · BRAND NEW ANIMAL · BNA:bna-brand-new-animal:8444c4⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "8444c4d1d1e2e17cb9e4ed85c0746e77ea8c9dcfd23b0b028d5aa179725bb220",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 809,
-    "prev": "351fdde36f543c575a804e16c54d58dc52a8af3f2bb568d1a2ca7825e7aa4018",
-    "link": "591dcd1d6fc475756a58df03f6e3325ac0ecc6d06072fa81443b5601d81216cc",
-    "head": "f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409",
+    "prev": "d8258c09d8b2cfb56186ed72969f8d703184433d0cc8e4657dd23806151781c8",
+    "link": "472647392b9da4cb97573a0f998358cf831cdbf1b99718d5e7af8972ebcc969b",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
